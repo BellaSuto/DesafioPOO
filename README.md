@@ -1,2 +1,2 @@
-# Desafio_POO_GFT
-Desafio com 7 questões sobre POO
+## Desafio de POO
+Desafio com 7 questões sobre POO para nivelamento
